@@ -9,7 +9,6 @@
 
 ## Instalación
 ```bash
-cd examen-final-scasano-dae
 npm install
 npm run dev
 ````
